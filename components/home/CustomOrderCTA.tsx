@@ -41,7 +41,7 @@ const CustomOrderCTA: React.FC = () => {
                   transition={{ delay: 0.2 + index * 0.1 }}
                   className="flex items-start text-lg text-gray-700"
                 >
-                  <CheckCircle className="w-5 h-5 text-pink-600 mr-3 mt-1 flex-shrink-0" />
+                  <CheckCircle className="w-5 h-5 text-pink-600 mr-3 mt-1 shrink-0" />
                   {step}
                 </motion.li>
               ))}
@@ -71,13 +71,13 @@ const CustomOrderCTA: React.FC = () => {
           >
             {/* Image 1: Large Base Image */}
             <img
-              src="/images/design-cake-1.png"
+              src="/bakery/images/design-cake-1.png"
               alt="Beautiful Custom Wedding Cake"
               className="absolute top-0 left-0 w-4/5 h-4/5 object-cover rounded-xl shadow-2xl z-10 border-4 border-white"
             />
             {/* Image 2: Small Accent Image (Bottom Right) */}
             <img
-              src="/images/design-cake-3.png"
+              src="/bakery/images/design-cake-3.png"
               alt="Custom Birthday Cupcakes"
               className="absolute bottom-0 right-0 w-1/2 h-1/2 object-cover rounded-xl shadow-xl border-4 border-white z-20 transform translate-x-4 translate-y-4"
             />

@@ -56,13 +56,13 @@ const MeetBaker: React.FC = () => {
             className="grid grid-cols-2 gap-4"
           >
             <img
-              src="/images/baker-1.png"
+              src="/bakery/images/baker-1.png"
               alt="Baker working on a cake"
               className="w-full h-auto object-cover rounded-xl shadow-lg border-4 border-white"
             />
 
             <img
-              src="/images/baker-2.png"
+              src="/bakery/images/baker-2.png"
               alt="Kitchen shot"
               className="w-full h-auto object-cover rounded-xl shadow-lg border-4 border-white"
             />

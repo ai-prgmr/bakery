@@ -40,7 +40,7 @@ const Header: React.FC = () => {
         {/* Logo/Brand Name */}
         <Link href="/" className="flex items-center space-x-3">
           <Image
-            src="/images/farida-1.jpeg"
+            src="/bakery/images/farida-1.jpeg"
             width={50}
             height={50}
             alt="Farida's Bakery Logo"

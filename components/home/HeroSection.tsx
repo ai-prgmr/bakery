@@ -15,7 +15,7 @@ const HeroSection: React.FC = () => {
       {/* Main Hero Banner */}
       <div
         className="relative aspect-9/16 md:aspect-video bg-cover bg-center"
-        style={{ backgroundImage: 'url("/images/cake-home.png")' }}
+        style={{ backgroundImage: 'url("/bakery/images/cake-home.png")' }}
       >
         {/* Text and CTA Box */}
         <div className="absolute backdrop-blur-sm shadow-xl md:backdrop-blur-none md:shadow-none top-1/2 left-1/2 transform -translate-x-1/2 text-center md:text-left md:top-1/3 md:left-1/3 md:translate-x-0 p-8 rounded-lg w-full md:max-w-xl">

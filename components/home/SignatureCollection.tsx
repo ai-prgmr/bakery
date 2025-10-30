@@ -8,19 +8,19 @@ const signatureProducts: Product[] = [
     id: 1,
     name: "Red Velvet Delights",
     price: "Starts at ₹ 250",
-    image: "/images/red-velvet.png",
+    image: "/bakery/images/red-velvet.png",
   },
   {
     id: 2,
     name: "Classic Vanilla Dream",
     price: "Starts at ₹ 1200",
-    image: "/images/Vanilla-dream.png",
+    image: "/bakery/images/Vanilla-dream.png",
   },
   {
     id: 3,
     name: "Chocolate Raspberry Bomb",
     price: "Starts at ₹ 300",
-    image: "/images/choco-raspberry.png",
+    image: "/bakery/images/choco-raspberry.png",
   },
 ];
 

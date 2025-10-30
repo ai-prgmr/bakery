@@ -7,19 +7,19 @@ const seasonalItems: Product[] = [
     id: 5,
     name: "Cranberry Orange Scones",
     price: "₹ 300 each",
-    image: "/images/cran-orange.jpeg",
+    image: "/bakery/images/cran-orange.jpeg",
   },
   {
     id: 6,
     name: "Gingerbread Cupcakes",
     price: "₹ 400 each",
-    image: "/images/ginger-cupcake.jpeg",
+    image: "/bakery/images/ginger-cupcake.jpeg",
   },
   {
     id: 7,
     name: "Hot Chocolate Bombs",
     price: "₹ 300 (set of 3)",
-    image: "/images/choco-bombs.jpeg",
+    image: "/bakery/images/choco-bombs.jpeg",
   },
 ];
 
