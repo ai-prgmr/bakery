@@ -35,7 +35,7 @@ const HeroSection: React.FC = () => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5 }}
-            className="text-md md:text-lg text-gray-700 mb-6"
+            className="text-md md:text-lg text-white md:text-gray-700 mb-6"
           >
             Artisanal custom cakes, cupcakes, and desserts baked fresh for your
             special moments.
